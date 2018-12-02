@@ -1,0 +1,25 @@
+{
+	"country": "France",
+	"locations": ["Eiffel Tower", "Catacombs", "Arc de Triomphe"],
+	"locationCoordinates": ["48.8586,2.2940583", "48.8338316,2.3324221", "48.8736572,2.2956469"],
+	"arrowText": [
+		["Catacombs", "Arc de Triomphe"],
+		["Eiffel Tower", "Arc de Triomphe"],
+		["Eiffel Tower", "Catacombs"]
+	],
+	"arrowCoordinates": [
+		["0,0,750,0", "750,0,0,90"],
+		["-750,0,0,-90", "750,0,0,90"],
+		["-750,0,0,-90", "0,0,750,0"]
+	],
+	"arrowVRCoordinates": [
+		["0,0,10,0", "10,0,0,90"],
+		["-10,0,0,-90", "10,0,0,90"],
+		["-10,0,0,-90", "0,0,10,0"]
+	],
+	"arrowIndexes": [
+		[1, 2],
+		[0, 2],
+		[0, 1]
+	]
+}

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenic Spheres", "Scenic Spheres.csproj", "{0133F843-3DD4-B097-5478-5D8053EFF0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenic Spheres.Plugins", "Scenic Spheres.Plugins.csproj", "{9BE34260-BDEB-3215-2200-D39B00904500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenic Spheres.Editor", "Scenic Spheres.Editor.csproj", "{E158A6AE-534E-A63C-94C0-7DB9D8B15256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0133F843-3DD4-B097-5478-5D8053EFF0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0133F843-3DD4-B097-5478-5D8053EFF0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0133F843-3DD4-B097-5478-5D8053EFF0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0133F843-3DD4-B097-5478-5D8053EFF0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE34260-BDEB-3215-2200-D39B00904500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE34260-BDEB-3215-2200-D39B00904500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE34260-BDEB-3215-2200-D39B00904500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE34260-BDEB-3215-2200-D39B00904500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E158A6AE-534E-A63C-94C0-7DB9D8B15256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E158A6AE-534E-A63C-94C0-7DB9D8B15256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E158A6AE-534E-A63C-94C0-7DB9D8B15256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E158A6AE-534E-A63C-94C0-7DB9D8B15256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

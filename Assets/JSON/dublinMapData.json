@@ -1,0 +1,25 @@
+{
+	"country": "Ireland",
+	"locations": ["The Spire", "Croke Park", "Dublin Castle"],
+	"locationCoordinates": ["53.3497516,-6.2601262", "53.360495,-6.2520565", "53.3431015,-6.2675076"],
+	"arrowText": [
+		["Croke Park", "Dublin Castle"],
+		["The Spire", "Dublin Castle"],
+		["The Spire", "Croke Park"]
+	],
+	"arrowCoordinates": [
+		["0,0,750,0", "750,0,0,90"],
+		["-750,0,0,-90", "750,0,0,90"],
+		["-750,0,0,-90", "0,0,750,0"]
+	],
+	"arrowVRCoordinates": [
+		["0,0,10,0", "10,0,0,90"],
+		["-10,0,0,-90", "10,0,0,90"],
+		["-10,0,0,-90", "0,0,10,0"]
+	],
+	"arrowIndexes": [
+		[1, 2],
+		[0, 2],
+		[0, 1]
+	]
+}

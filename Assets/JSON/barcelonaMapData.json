@@ -1,0 +1,25 @@
+{
+	"country": "Spain",
+	"locations": ["Las Ramblas", "La Sagrada Familia", "El Peix"],
+	"locationCoordinates": ["41.381652,2.1728488", "41.4033564,2.1735728", "41.3860359,2.1972969"],
+	"arrowText": [
+		["La Sagrada Familia", "El Peix"],
+		["Las Ramblas", "El Peix"],
+		["Las Ramblas", "La Sagrada Familia"]
+	],
+	"arrowCoordinates": [
+		["0,0,750,0", "750,0,0,90"],
+		["-750,0,0,-90", "750,0,0,90"],
+		["-750,0,0,-90", "0,0,750,0"]
+	],
+	"arrowVRCoordinates": [
+		["0,0,10,0", "10,0,0,90"],
+		["-10,0,0,-90", "10,0,0,90"],
+		["-10,0,0,-90", "0,0,10,0"]
+	],
+	"arrowIndexes": [
+		[1, 2],
+		[0, 2],
+		[0, 1]
+	]
+}

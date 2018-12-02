@@ -1,0 +1,126 @@
+{
+	"locationQuestions": [
+		[
+			"In which region of Spain would you find Barcelona?",
+			"How many avenues comprise Las Rambas?",
+			"What type of architecture would you commonly find in the area of Las Ramblas?",
+			"What was the original use of Barcelona\'s oldest hotel?",
+			"What is special about the clock in the Teatro Poliorama?",
+			"What is special about the car park in Las Ramblas?",
+			"What famous crime occurred in Las Ramblas in 1981?"
+		],
+		[
+			"For which religion is La Sagrada Familia being built?",
+			"What happened to the original designer of La Sagrada Famila?",
+			"Who was the main architect of La Sagrada Familia?",
+			"Why was building of the La Sagrada Familia suspended from 1936 for several years?",
+			"By whom was La Sagrada Familia consecrated in 2010?",
+			"How many towers will La Sagrada Familia have when completed?",
+			"What do the facades of La Sagrada Familia represent?",
+			"How high Is the spire planned to reach?",
+			"So far, how long has La Sagrada Familia been under construction?",
+			"When is it hoped to complete La Sagrada Familia?"
+		],
+		[
+			"Which artist created the fish sculpture?",
+			"In what year were the Olympic Games held in Barcelona?",
+			"How long is Frank Gehry\'s fish sculpture?",
+			"What is the principal material used to make the fish?",
+			"What happens to the fish sculpture in the sunlight?",
+			"Which programming language was used by \"CATIA\"?"
+		]
+	],
+	"locationAnswers": [
+		[
+			["Andalucia", "Murcia", "Catalu\u00f1a"],
+			["Four", "Six", "Five"],
+			["Georgian", "Gothic", "Victorian"],
+			["Palace", "School", "Bank"],
+			["It was the first electric clock in Barcelona", "It was the first digital clock in Barcelona", "It was the first wind up clock in Barcelona"],
+			["Cars are parked by robots", "Cars are parked using elevators", "Only electric cars may be parked"],
+			["Bank Robbery", "Terrorist Bombing", "Great Train Robbery"]
+		],
+		[
+			["Protestant", "Muslim", "Catholic"],
+			["He died", "He resigned", "He was sacked"],
+			["Sugranes", "Gehry", "Gaudi"],
+			["Lack of funds", "Civil war", "Death of Gaudi"],
+			["Pope Benedict XVI", "Pope John Paul II", "Pope Francis"],
+			["12", "18", "24"],
+			["The life of Jesus", "The apostles", "The evangelists"],
+			["560ft", "660ft", "760ft"],
+			["About 100 years", "About 200 years", "About 300 years"],
+			["2026", "2036", "2046"]
+		],
+		[
+			["Gehry", "Gaudi", "Greco"],
+			["1982", "1992", "2002"],
+			["56cm", "56m", "56km"],
+			["Iron", "Silver", "Steel"],
+			["It changes colour", "The metal melts", "It expands"],
+			["C", "C Sharp", "C++"]
+		]
+	],
+	"locationAnswerResults": [
+		[
+			[false, false, true],
+			[false, false, true],
+			[false, true, false],
+			[false, true, false],
+			[true, false, false],
+			[false, true, false],
+			[true, false, true]
+		],
+		[
+			[false, false, true],
+			[false, true, false],
+			[false, false, true],
+			[false, true, false],
+			[true, false, false],
+			[false, true, false],
+			[true, false, false],
+			[true, false, false],
+			[false, true, false],
+			[true, false, false]
+		],
+		[
+			[true, false, false],
+			[false, true, false],
+			[false, true, false],
+			[false, false, true],
+			[true, false, false],
+			[false, false, true]
+		]
+	],
+	"locationImages": [
+		[
+			"Images/Barcelona/Las_Ramblas/1",
+			"Images/Barcelona/Las_Ramblas/2",
+			"Images/Barcelona/Las_Ramblas/3",
+			"Images/Barcelona/Las_Ramblas/4",
+			"Images/Barcelona/Las_Ramblas/5",
+			"Images/Barcelona/Las_Ramblas/6",
+			"Images/Barcelona/Las_Ramblas/7"
+		],
+		[
+			"Images/Barcelona/La_Sagrada_Familia/1",
+			"Images/Barcelona/La_Sagrada_Familia/2",
+			"Images/Barcelona/La_Sagrada_Familia/3",
+			"Images/Barcelona/La_Sagrada_Familia/11",
+			"Images/Barcelona/La_Sagrada_Familia/5",
+			"Images/Barcelona/La_Sagrada_Familia/6",
+			"Images/Barcelona/La_Sagrada_Familia/7",
+			"Images/Barcelona/La_Sagrada_Familia/8",
+			"Images/Barcelona/La_Sagrada_Familia/9",
+			"Images/Barcelona/La_Sagrada_Familia/10",
+		],
+		[
+			"Images/Barcelona/El_Peix/1",
+			"Images/Barcelona/El_Peix/7",
+			"Images/Barcelona/El_Peix/8",
+			"Images/Barcelona/El_Peix/4",
+			"Images/Barcelona/El_Peix/9",
+			"Images/Barcelona/El_Peix/6"
+		]
+	],
+}

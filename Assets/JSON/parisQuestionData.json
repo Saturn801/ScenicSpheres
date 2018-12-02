@@ -1,0 +1,162 @@
+{
+	"locationQuestions": [
+		[
+			"Who designed the Eiffel Tower?",
+			"How many names are engraved on the side of the tower?",
+			"How tall is the Eiffel Tower?",
+			"Which is the world\'s tallest structure?",
+			"How many steps are there to the top of the Eiffel Tower?",
+			"How far does the lift travel each year?",
+			"How many light bulbs are there on the Eiffel Tower?",
+			"In the summer the Eiffel Tower is, what?",
+			"How many people visit the Eiffel Tower each year?",
+			"How often is the Eiffel Tower painted?",
+			"What did Victor Lustig try to do in 1925?",
+			"What did Nazi soldiers try to put on the tower during the second world war?"
+		],
+		[
+			"Why were graveyards moved to the catacombs?",
+			"Which was the first cemetery removed to the catacombs in 1786?",
+			"What is an ossuary used for?",
+			"The catacombs are built in former, what?",
+			"During the Second World War, who used the tunnels of the Catacombs to hide in?",
+			"What Prize did Airbnb offer in 2015?"
+		],
+		[
+			"Who commissioned the building of the Arc de Triomphe?",
+			"What is inscribed on the Arc de Triomphe?",
+			"Who designed the Arc de Triomphe?",
+			"Why did Napoleon not see the finished Arc de Triomphe?",
+			"When did Napoleon finally pass through the Arc de Triomphe?",
+			"Where is the Arc de Triomphe?",
+			"How high is the Arc de Triomphe?",
+			"How many steps are there to the top of the arc?",
+			"What was the currency of France before the Euro?",
+			"What did Charles Godefroy do at the end of World War I?",
+			"What happens at the Arc de Triomphe every day to honour war victims?",
+			"Who survived more than 30 assassinations attempts, one of which was at the Arc de Triomphe?",
+			"Which of these events starts and finishes in front of the Arc de Triomphe?",
+			"Where is the second Arc de Triomphe?"
+		]
+	],
+	"locationAnswers": [
+		[
+			["Frederic Eiffel", "Gustave Eiffel", "Michel Eiffel"],
+			["72", "82", "92"],
+			["624m", "324m", "924m"],
+			["The Eiffel Tower", "The Empire State Building", "Burj Khalifa"],
+			["1580", "2535", "1665"],
+			["103,000km", "103,000m", "103,000 miles"],
+			["30,000", "10,000", "20,000"],
+			["Taller", "Shorter", "The same height"],
+			["700,000", "7,000,000", "70,000,000"],
+			["Every year", "Every 5 years", "Every 7 years"],
+			["Steal the tower", "Sell the tower", "Blow up the tower"],
+			["A picture of Hitler", "A Swastika", "A German flag"],
+		],
+		[
+			["They became full", "For religious reasons", "Because of health risks"],
+			["Notre-Dame-des-Blancs-Manteaux", "Saint-Etienne-des-Gres", "Saints-Innocents"],
+			["To store bones", "To grind bones", "To cremate bones"],
+			["Metro system", "Quarries", "Sewers"],
+			["Members of Parliament", "Members of the French Resistance", "Members of the Ku Klux Klan"],
+			["Have a birthday party in Catacombs", "Spend a night in the Catacombs", "Watch a movie in the Catacombs"]
+		],
+		[
+			["Jacques Cousteau", "Joan of Arc", "Napoleon"],
+			["The French National Anthem", "Names of French Generals", "Names of French Presidents"],
+			["Jean-Nicolas Huyot", "Jean Chalgrin", "Jean-Michel Jarre"],
+			["He emigrated to Germany", "He passed away before it was finished", "He went blind"],
+			["When he won the Napoleonic wars", "At the opening ceremony of the first Tour de France race", "When his body was moved to its final resting place"],
+			["Place du Carrousel", "Place D'Italie", "Place Charles de Gaulle"],
+			["40m", "50m", "60m"],
+			["484", "284", "384"],
+			["Pound", "Krona", "Franc"],
+			["Crash his plane into the Arc de Triomphe", "Fly his plane under the Arch de Triomphe", "Land his plane on top of the Arc de Triompe"],
+			["A flame is lit", "A cannon salute", "A flag is hoisted"],
+			["Charles de Gaulle", "Emmanuel Macron", "Jacques Chirac"],
+			["The Ryder Cup", "The Tour de France", "The French Open"],
+			["Place du Carrousel", "Place D'Italie", "Place de la Concorde"]
+		]
+	],
+	"locationAnswerResults": [
+		[
+			[false, true, false],
+			[true, false, false],
+			[false, true, false],
+			[false, false, true],
+			[false, false, true],
+			[true, false, false],
+			[false, false, true],
+			[true, false, false],
+			[false, true, false],
+			[false, false, true],
+			[false, true, false],
+			[false, true, false]
+		],
+		[
+			[false, false, true],
+			[false, false, true],
+			[true, false, false],
+			[false, true, false],
+			[false, true, false],
+			[false, true, false]
+		],
+		[
+			[false, false, true],
+			[false, true, false],
+			[false, true, false],
+			[false, true, false],
+			[false, false, true],
+			[false, false, true],
+			[false, true, false],
+			[false, true, false],
+			[false, false, true],
+			[false, true, false],
+			[true, false, false],
+			[true, false, false],
+			[false, true, false],
+			[true, false, false]
+		]
+	],
+	"locationImages": [
+		[
+			"Images/Paris/Eiffel_Tower/1",
+			"Images/Paris/Eiffel_Tower/2",
+			"Images/Paris/Eiffel_Tower/14",
+			"Images/Paris/Eiffel_Tower/15",
+			"Images/Paris/Eiffel_Tower/5",
+			"Images/Paris/Eiffel_Tower/12",
+			"Images/Paris/Eiffel_Tower/6",
+			"Images/Paris/Eiffel_Tower/7",
+			"Images/Paris/Eiffel_Tower/13",	
+			"Images/Paris/Eiffel_Tower/9",
+			"Images/Paris/Eiffel_Tower/16",
+			"Images/Paris/Eiffel_Tower/17"
+		],
+		[
+			"Images/Paris/Catacombs/1",
+			"Images/Paris/Catacombs/7",
+			"Images/Paris/Catacombs/3",
+			"Images/Paris/Catacombs/4",
+			"Images/Paris/Catacombs/8",
+			"Images/Paris/Catacombs/9"
+		],
+		[
+			"Images/Paris/Arc_De_Triomphe/1",
+			"Images/Paris/Arc_De_Triomphe/2",
+			"Images/Paris/Arc_De_Triomphe/3",
+			"Images/Paris/Arc_De_Triomphe/4",
+			"Images/Paris/Arc_De_Triomphe/5",
+			"Images/Paris/Arc_De_Triomphe/6",
+			"Images/Paris/Arc_De_Triomphe/15",
+			"Images/Paris/Arc_De_Triomphe/8",
+			"Images/Paris/Arc_De_Triomphe/9",
+			"Images/Paris/Arc_De_Triomphe/17",
+			"Images/Paris/Arc_De_Triomphe/11",
+			"Images/Paris/Arc_De_Triomphe/12",
+			"Images/Paris/Arc_De_Triomphe/16",
+			"Images/Paris/Arc_De_Triomphe/14"
+		]
+	],
+}

@@ -1,0 +1,122 @@
+{
+	"locationQuestions": [
+		[
+			"What is the Spire also known as?",
+			"Who designed the Spire?",
+			"Where was the Spire built?",
+			"How tall is the Spire?",
+			"What inspired the Spire?",
+			"How many light holes are there in the Spire?",
+			"Which monument, destroyed by an IRA bomb, did the Spire replace?"
+		],
+		[
+			"What is one of the principal sports played at Croke Park?",
+			"What profession did Thomas Croke, after whom Croke Park was named, have?",
+			"What was Croke Park during the 40 years before it was bought by the GAA?",
+			"Which one of the Stands was named after Tipperary\'s Captain, killed in the \"Bloody Sunday\" massacre at Croke Park?",
+			"What is the capacity of Croke Park?",
+			"What sustainability credential can Croke Park claim?",
+			"Which gig, played at Croke Park was voted the most popular live event in Ireland in the last 20 years?",
+			"How many stories high is the skyline walk?"
+		],
+		[
+			"Who built Dublin Castle in 1230?",
+			"What symbol do you find in the centre of the flag of Lord Lieutenant of Ireland?",
+			"Which is the only medieval tower that remains intact today?",
+			"In what style was the castle rebuilt in the late 17th and 18th Centuries?",
+			"When was the Anglo-Irish treaty signed?",
+			"Which Library is located within Dublin Castle?",
+			"Who worked at Dublin Castle from 1866 to 1878?"
+		]
+	],
+	"locationAnswers": [
+		[
+			["Monument of Steel", "Monument of Light", "Monument of Sun"],
+			["Ian Botham", "Ian Drury", "Ian Ritchie"],
+			["Waterford", "Wicklow", "Wexford"],
+			["220m", "120m", "320m"],
+			["Sea", "Skies", "Land"],
+			["11,884", "1,884", "111,884"],
+			["GPO Tower", "Cleopatra\'s Needle", "Nelson\'s Pillar"]
+		],
+		[
+			["Hurling", "Tennis", "Basketball"],
+			["Prime Minister", "Archbishop", "President"],
+			["Reservoir", "Sports Ground", "Housing Development"],
+			["Cusack", "Davin", "Hogan"],
+			["8,230", "82,300", "182,300"],
+			["Using only renewable energy sources", "Zero water waste", "Zero waste to landfill"],
+			["Coldplay", "Ed Sheeran", "U2"],
+			["27", "17", "7"]
+		],
+		[
+			["King John", "King George", "King James"],
+			["Shamrock", "Harp", "Celtic Cross"],
+			["The Registry Tower", "The Record Tower", "The Repository Tower"],
+			["Edwardian", "Victorian", "Georgian"],
+			["1916", "1921", "1926"],
+			["Chester Beatty", "Thomas Fisher", "Bodleian"],
+			["Vlad the Impaler", "Dracula", "Bram Stoker"]
+		]
+	],
+	"locationAnswerResults": [
+		[
+			[false, true, false],
+			[false, false, true],
+			[true, false, true],
+			[false, true, false],
+			[false, true, false],
+			[true, false, true],
+			[false, false, true]
+		],
+		[
+			[true, false, false],
+			[false, true, false],
+			[false, true, false],
+			[false, false, true],
+			[false, true, false],
+			[false, false, true],
+			[true, false, false],
+			[false, true, false]
+		],
+		[
+			[true, false, false],
+			[false, true, false],
+			[false, true, false],
+			[false, false, true],
+			[false, true, false],
+			[true, false, false],
+			[false, false, true]
+		]
+	],
+	"locationImages": [
+		[
+			"Images/Dublin/The_Spire/1",
+			"Images/Dublin/The_Spire/2",
+			"Images/Dublin/The_Spire/3",
+			"Images/Dublin/The_Spire/8",
+			"Images/Dublin/The_Spire/5",
+			"Images/Dublin/The_Spire/6",
+			"Images/Dublin/The_Spire/7"
+		],
+		[
+			"Images/Dublin/Croke_Park/1",
+			"Images/Dublin/Croke_Park/2",
+			"Images/Dublin/Croke_Park/3",
+			"Images/Dublin/Croke_Park/4",
+			"Images/Dublin/Croke_Park/5",
+			"Images/Dublin/Croke_Park/6",
+			"Images/Dublin/Croke_Park/7",
+			"Images/Dublin/Croke_Park/8"
+		],
+		[
+			"Images/Dublin/Dublin_Castle/1",
+			"Images/Dublin/Dublin_Castle/8",
+			"Images/Dublin/Dublin_Castle/3",
+			"Images/Dublin/Dublin_Castle/4",
+			"Images/Dublin/Dublin_Castle/5",
+			"Images/Dublin/Dublin_Castle/6",
+			"Images/Dublin/Dublin_Castle/7"
+		]
+	],
+}
